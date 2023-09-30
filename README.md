@@ -1,4 +1,2 @@
-# hello-world
-1st attempt at github
-testtext
-text2
+# Python 101
+Code snippets from various courses and experiments
